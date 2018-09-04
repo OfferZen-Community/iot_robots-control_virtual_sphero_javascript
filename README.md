@@ -23,8 +23,8 @@ We've also created a Sphero CLI for the Make Day so if you want to have a look a
 
 * `sphero.roll`: Takes two arguments - speed (unitless) and direction (in degrees). The direction you specify is clockwise relative to the x-axis - see the image below:
 <img src="assets/clockwise_rotation.png" width="150" height="150" />
- * To calculate distance with the sphero you will have to use the formala distance = speed x time or d = st
- * [Refer to this link for distance time speed explanations](http://www.softschools.com/formulas/physics/distance_speed_time_formula/75/)
+    * To calculate distance with the sphero you will have to use the formala distance = speed x time or d = st
+    * [Refer to this link for distance time speed explanations](http://www.softschools.com/formulas/physics/distance_speed_time_formula/75/)
 
 * `sphero.setColor`: Takes a string with the color as argument. In lower-case, e.g. "blue", "red", "green", etc.
 
